@@ -1,0 +1,21 @@
+# Core NLP and Machine Learning
+nltk>=3.8
+spacy>=3.8
+scikit-learn>=1.4
+pandas>=2.0
+numpy>=1.26
+
+# Topic Modeling
+bertopic>=0.16
+
+# Web App and Visualization
+streamlit>=1.30
+matplotlib>=3.7
+networkx>=3.0
+folium>=0.15
+plotly>=5.18
+
+# Data Scraping and APIs
+requests>=2.30
+beautifulsoup4>=4.12
+ebooklib>=0.18
