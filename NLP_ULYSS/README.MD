@@ -84,6 +84,3 @@ streamlit run ulysses_guide_app.py
 ```
 The application will be available at `http://localhost:8501`.
 
-## License
-
-This project is provided for educational and research purposes. The analysis code is open source, but please respect the copyright of the text of "Ulysses" itself.
